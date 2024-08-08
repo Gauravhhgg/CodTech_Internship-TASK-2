@@ -1,8 +1,13 @@
 Name: GAURAV PAL
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT08DS6210
+
 Domain: Data Science
+
 Duration: August to September 2024
+
 Mentor: Muzammil Ahmed
 
 # CodTech_Internship-TASK-2
